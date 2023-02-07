@@ -34,3 +34,7 @@ atualizar_preco(p2,50) #atualiza o preco
 listar()        #lista os produtos do estoque
 preco_total()   #informa o preço total
 
+#removendo um produto
+remover_estoque(p1) 
+listar()
+
