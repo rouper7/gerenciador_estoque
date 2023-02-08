@@ -1,5 +1,5 @@
 # gerenciador_estoque
-um gerenciador de estoque feito em python utilizando funcoes e classes
+A Python-based stock manager using functions and classes
 How to Use:
 
 1.Product Creation: To create a product object, you need to call the Produto class and pass three arguments to the init method: product name, price and quantity in stock.
